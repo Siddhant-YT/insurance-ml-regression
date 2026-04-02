@@ -154,7 +154,6 @@ Start UI: streamlit run streamlit_app.py
 
 ## Future Improvements
 
--   Hyperparameter tuning\
 -   Monitoring\
 -   Docker\
 -   Cloud deployment
